@@ -1,8 +1,8 @@
-- 👋 Salut, je suis @ClementServant
-- 👀 Je suis intéressé par le developpement web front-end, la creation de jeux vidéo et de pluggins.
-- 🌱 J'apprends actuellement intégrateur web à openclassrooms
-- 💞️ Je cherche à collaborer sur...
-- 📫 Comment me joindre...
+- 👋 Hello I am @ClémentServant
+- 👀 I am interested in front-end web development, creating video games and plugins.
+- 🌱 I am currently learning web integrator at openclassrooms
+- 💞️ I am looking to collaborate on...
+- 📫 How to reach me...
 
 <!---
 ClementServant/ClementServant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
