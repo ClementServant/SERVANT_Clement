@@ -1,5 +1,5 @@
 - 👋 Hello I am @ClémentServant
-- 👀 I am interested in front-end web development, creating video games and plugins.
+- 👀 I am interested in front-end web development, python, creating video games and plugins.
 - 🌱 I am currently learning web integrator at openclassrooms
 - 💞️ I am looking to collaborate on...
 - 📫 How to reach me...
